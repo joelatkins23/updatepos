@@ -1,0 +1,1 @@
+[18-Apr-2020 22:39:00 Etc/GMT] PHP Fatal error:  Cannot use temporary expression in write context in /home/regentaq/public_html/phppos/application/controllers/Reports.php on line 248
